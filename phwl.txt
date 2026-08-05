@@ -34,3 +34,32 @@ eic-iotservice.lgthinq.com
 route-lgthinq-com.aws-thinq-prd.net
 eic-emp-lgsmartplatform-com.lgemp-prd.net
 eic-lid-lgemembers-com.lgemp-prd.net
+
+
+# --- Autenticacion y cuenta LG (globales) ---
+lgeaic.gtb.lgesv.com
+route.lgthinq.com
+common.lgthinq.com
+api.lgthinq.com
+ 
+# --- Region Europa (prefijo "eic") ---
+eic-service.lgthinq.com
+eic-op-lss.lgthinq.com
+eu.lgeapi.com
+ 
+# --- Region Americas (prefijo "aic") - por si tu cuenta esta creada como US ---
+aic-service.lgthinq.com
+aic-op-lss.lgthinq.com
+us.lgeapi.com
+ 
+# --- Infraestructura general LGE / notificaciones push ---
+lgeapi.com
+lgsmartthinq.com
+gscs.lgsmartthinq.com
+aic-ngfts.lge.com
+ 
+# --- Dominios raiz por si se usan subdominios adicionales no listados ---
+# (Descomenta solo si tras revisar el Query Log ves muchos subdominios
+# distintos bajo el mismo dominio raiz y prefieres permitir todo el arbol)
+lgthinq.com
+lgeapi.com
