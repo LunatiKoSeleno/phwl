@@ -1,0 +1,15 @@
+# ==========================================
+# Whitelist personal - Pi-hole
+# Autor: LunatikoSeleno
+# Última actualización: 2026-08-05
+# ==========================================
+
+# Dominios asociados a lavadora
+
+route-lgthinq-com.aws-thinq-prd.net
+eic-mclip.lgthinq.com
+es-lgeapi-com.esi-prd.net
+eic-api-lgthinq-com.aws-thinq-prd.net
+es.lid.lgemembers.com
+es.emp.lgsmartplatform.com
+es.lgeapi.com
