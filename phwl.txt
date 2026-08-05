@@ -32,13 +32,13 @@ es.emp.lgsmartplatform.com
 
 # --- Dominios ya funcionando bien en el log (no bloqueados, se listan por ---
 # --- completitud / documentacion, NO es necesario anadirlos) ---
-# eic-api.lgthinq.com
-# eic-api-lgthinq-com.aws-thinq-prd.net
-# eic-iotservice.lgthinq.com
-# es.lgeapi.com
-# es-lgeapi-com.esi-prd.net
-# noti.lgthinq.com
-# objectcontent.lgthinq.com
+eic-api.lgthinq.com
+eic-api-lgthinq-com.aws-thinq-prd.net
+eic-iotservice.lgthinq.com
+es.lgeapi.com
+es-lgeapi-com.esi-prd.net
+noti.lgthinq.com
+objectcontent.lgthinq.com
 
 # ==========================================
 # RECOMENDACION EXTRA (regex, no dominio exacto):
