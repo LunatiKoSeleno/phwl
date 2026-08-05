@@ -34,7 +34,7 @@ eic-iotservice.lgthinq.com
 route-lgthinq-com.aws-thinq-prd.net
 eic-emp-lgsmartplatform-com.lgemp-prd.net
 eic-lid-lgemembers-com.lgemp-prd.net
-
+eic-api.lgthinq.com
 
 # --- Autenticacion y cuenta LG (globales) ---
 lgeaic.gtb.lgesv.com
