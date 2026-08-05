@@ -6,10 +6,13 @@
 
 # Dominios asociados a lavadora
 
-route-lgthinq-com.aws-thinq-prd.net
-eic-mclip.lgthinq.com
-es-lgeapi-com.esi-prd.net
 eic-api-lgthinq-com.aws-thinq-prd.net
-es.lid.lgemembers.com
+eic-emp-lgsmartplatform-com.lgemp-prd.net
+eic-iotservice.lgthinq.com
+eic-lid-lgemembers-com.lgemp-prd.net
+eic-mclip.lgthinq.com
 es.emp.lgsmartplatform.com
 es.lgeapi.com
+es-lgeapi-com.esi-prd.net
+es.lid.lgemembers.com
+route-lgthinq-com.aws-thinq-prd.net
