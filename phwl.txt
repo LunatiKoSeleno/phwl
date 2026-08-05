@@ -17,10 +17,20 @@
 #es.lid.lgemembers.com
 #route-lgthinq-com.aws-thinq-prd.net
 
-(^|\.)lgthinq\.com$
-(^|\.)lgeapi\.com$
-(^|\.)lgsmartplatform\.com$
-(^|\.)lgemembers\.com$
-(^|\.)lgtvsdp\.com$
-(^|\.)lgappstv\.com$
-(^|\.)lge\.com$
+lgthinq.com
+lgeapi.com
+lgsmartplatform.com
+lgemembers.com
+lgtvsdp.com
+lgappstv.com
+lge.com
+
+es.lgeapi.com
+es.emp.lgsmartplatform.com
+es.lid.lgemembers.com
+eic-api-lgthinq-com.aws-thinq-prd.net
+eic-mclip.lgthinq.com
+eic-iotservice.lgthinq.com
+route-lgthinq-com.aws-thinq-prd.net
+eic-emp-lgsmartplatform-com.lgemp-prd.net
+eic-lid-lgemembers-com.lgemp-prd.net
