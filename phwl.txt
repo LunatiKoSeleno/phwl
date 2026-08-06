@@ -54,3 +54,7 @@ objectcontent.lgthinq.com
 # exclusivos de la infraestructura CNAME de LG ThinQ (no comparten
 # hosting con otros servicios que hayamos visto en el log).
 # ==========================================
+
+# Probables dominios implicados
+app-analytics-services.com
+rpiidt.dlsdk.appsflyersdk.com
