@@ -58,3 +58,4 @@ objectcontent.lgthinq.com
 # Probables dominios implicados
 app-analytics-services.com
 rpiidt.dlsdk.appsflyersdk.com
+www.googletagmanager.com
