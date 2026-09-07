@@ -75,3 +75,5 @@ eic-svc-lgthinq-com.aws-thinq-prd.net
 noti.lgthinq.com
 objectcontent.lgthinq.com
 kr-op-v2.lgthinqhome.com
+
+firebase-settings.crashlytics.com
