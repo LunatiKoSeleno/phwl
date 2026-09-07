@@ -59,3 +59,19 @@ objectcontent.lgthinq.com
 app-analytics-services.com
 rpiidt.dlsdk.appsflyersdk.com
 www.googletagmanager.com
+
+# Dominios añadidos el 07/09/2026
+# Dominios
+lgthinq.com
+lgthinqhome.com
+lgeapi.com
+lgtviot.com
+
+#Subdominios
+eic-common.lgthinq.com
+eic-iotservice.lgthinq.com
+eic-service.lgthinq.com
+eic-svc-lgthinq-com.aws-thinq-prd.net
+noti.lgthinq.com
+objectcontent.lgthinq.com
+kr-op-v2.lgthinqhome.com
